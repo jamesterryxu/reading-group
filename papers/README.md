@@ -1,6 +1,8 @@
 # Literature Review Guide and Paper List
 
 ## Literature Review Guide
+###
+- It's always helpful to jot down notes and remarks as you're reading! A sample template is provided in the form of a markdown to help facilitate note-taking. 
 
 ### Scope of papers to review
 
