@@ -9,4 +9,6 @@ Reading Group for UC Berkeley CEE
 
 ### Research Topic Examples
 
--  Reinforcement learning
+- Reinforcement learning for controls of civil systems 
+- Machine learning for structural health monitoring
+- Machine learning for "surrogate" modeling
